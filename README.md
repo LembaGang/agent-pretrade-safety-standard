@@ -1,8 +1,17 @@
+> **Superseded — this work lives forward in Headless Oracle.** The
+> pre-trade safety framing described in this repository has been
+> incorporated into the `environment.market_state` constraint type
+> in the Verifiable Intent specification. The canonical current
+> location is [Headless Oracle](https://headlessoracle.com) and
+> [PR #9 on agent-intent/verifiable-intent](https://github.com/agent-intent/verifiable-intent/pull/9).
+> Content below is retained for historical reference.
+
+---
+
 # Agent Pre-Trade Safety Standard (APTS) v1.0
 
 **Status:** v1.0.0 — stable, public draft
 **License:** Apache 2.0
-**Canonical URL:** https://github.com/LembaGang/headless-oracle-v5/blob/main/docs/agent-safety-standard/
 
 ---
 
